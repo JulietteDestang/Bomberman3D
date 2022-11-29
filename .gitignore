@@ -1,0 +1,5 @@
+make_bomberman
+build/*
+.vscode/
+unit_tests
+indie_studio
